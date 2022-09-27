@@ -33,12 +33,12 @@ Input "Acceleration (a): ",A
 Input "Time (t): ",T
 Input "Displacement (x-x0): ",X
 ClrHome
-Menu("Solve For?,"V Initial",A1,"V Final",B1,"Acceleration",C1,"Time",D1,"Displacement",E1
-Lbl A1
-Lbl B1
-Lbl C1
-Lbl D1
-Lbl E1
+Menu("Solve For?,"V Initial",3,"V Final",4,"Acceleration",5,"Time",6,"Displacement",7
+Lbl 3
+Lbl 4
+Lbl 5
+Lbl 6
+Lbl 7
 
 
 
