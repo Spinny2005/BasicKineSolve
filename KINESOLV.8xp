@@ -32,3 +32,19 @@ Input "V Final (V): ",Z
 Input "Acceleration (a): ",A
 Input "Time (t): ",T
 Input "Displacement (x-x0): ",X
+ClrHome
+Menu("Solve For?,"V Initial",A1,"V Final",B1,"Acceleration",C1,"Time",D1,"Displacement",E1
+Lbl A1
+Lbl B1
+Lbl C1
+Lbl D1
+Lbl E1
+
+
+
+
+
+
+
+
+
