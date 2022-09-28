@@ -33,8 +33,15 @@ Input "Acceleration (a): ",A
 Input "Time (t): ",T
 Input "Displacement (x-x0): ",X
 ClrHome
+Output(1,2,"Solve for?
+Input "(v, v0, a, t, x),S
+If A
+Then
+If Z
+Then
 
-
+Else
+Else
 
 
 
