@@ -34,7 +34,7 @@ Input "Time (T): ",T
 Input "Displacement (X-X0): ",X
 ClrHome
 Output(1,2,"Solve for?
-Input "(V, V0, A, T, X),S
+Input "(V, V0, A, T, X)",S
 If S=V
 Then
 
