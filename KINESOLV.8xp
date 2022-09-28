@@ -29,23 +29,33 @@ ClrHome
 Lbl 2
 Input "V Initial (V0): ",V
 Input "V Final (V): ",Z
-Input "Acceleration (a): ",A
-Input "Time (t): ",T
-Input "Displacement (x-x0): ",X
+Input "Acceleration (A): ",A
+Input "Time (T): ",T
+Input "Displacement (X-X0): ",X
 ClrHome
 Output(1,2,"Solve for?
-Input "(v, v0, a, t, x),S
-If A
-Then
-If Z
+Input "(V, V0, A, T, X),S
+If S=V
 Then
 
+
+
+
 Else
+If S=V0
+
+
+
 Else
+If S=A
 
 
 
+Else
+If S=T
 
 
 
+Else
+If S=X
 
